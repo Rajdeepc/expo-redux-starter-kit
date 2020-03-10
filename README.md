@@ -5,8 +5,6 @@ Few components i have made to ease the development process such as Single Sign O
 
 The project has Stack, Bottom Tab and Drawer navigator setup built in to choose from. 
 
-Ill keep adding components here whenever i get time. If you like this project use it as your starter kit and drop me a thanks on [rajrock38@gmail.com](rajrock38@gmail.com)
-
 To get started:
 
 Pre-requisites:
@@ -40,3 +38,6 @@ To Publish and test in your local device
 expo publish --release-channel <name>
 ```
 Once you receive a publish link scan the QR from your expo app installed on your ios or android and enjoy!!!!
+
+
+Ill keep adding components here whenever i get time. If you like this project use it as your starter kit and drop me a thanks on [rajrock38@gmail.com](rajrock38@gmail.com)
