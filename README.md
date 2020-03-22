@@ -41,3 +41,7 @@ Once you receive a publish link scan the QR from your expo app installed on your
 
 
 Ill keep adding components here whenever i get time. If you like this project use it as your starter kit and drop me a thanks on [rajrock38@gmail.com](rajrock38@gmail.com)
+
+If you would like to donate to this project so that i can give dedicated time to scale this below is the link:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](rajrock38@gmail.com)
